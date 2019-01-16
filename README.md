@@ -1,5 +1,7 @@
 # dice-game
 
+* Click here to play [Dice Game](https://2d-ink.github.io/dice-game/)
+
 <p align="center">
 <img align="center" src="capture.png" width="100%"/>
 </p>
